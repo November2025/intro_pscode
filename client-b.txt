@@ -2,3 +2,13 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+We would have to layout the warehouse into a grid with key locations listed like entrance, exit, shipping, receiving, office, packing and so on. 
+
+Once the key locations are listed we can allow the user to move in the 4 set directions. 
+
+We can let the user select the area they want to get to and then direct them there from their current location.
+
+Examples of the steps could include an array of the warehouse, implementing user logic to show where they are  where they want to go and a loop to allow for continuous movements of the user. 
+
+
+
