@@ -2,3 +2,6 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+We can create this program in JavaScript by using a function to count the itms. We can have it count the items from 2-50 using a loop to iterate and it increases by 2 every time. Increasing by 2 each time will show how many packages were scanned since each package only contains 2 things. 
+
+
