@@ -2,3 +2,19 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+First the computer picks a random number from 1-10
+
+The player  wouled get 3 tries to guess the number
+
+If the player gets it right they win but if they get it wrong they loose a chance. 
+
+This would continue until the player gets it right or runs out of chances
+
+This game would use if statements for if the number is correct and if not decrease the amount of tries left
+
+It also would use variables for a random number generator, how mnay chances the player has left and to keep track of how many guesses they have left
+
+Conditionals would be used to see if the guess is right.
+
+I feel this game could be programmed even better with Python and maybe some of my (imaginary) colleagues with experience with Python could help too!
+
